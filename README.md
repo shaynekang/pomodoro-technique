@@ -2,14 +2,14 @@
 
 ## 준비물
   * 타이머
-  * 종이 세 장: 오늘 할 일(To Do Today), 일 목록(Activity Inventory), 기록지(Records)
+  * 종이 세 장: **오늘 할 일**(To Do Today), **일 목록**(Activity Inventory), **기록지**(Records)
 
 ## 적용하기
-  1. 계획하기(Plan)
-  2. 추적하기(Track)
-  3. 기록하기(Record)
-  4. 처리하기(Process)
-  5. 시각화하기(Visualize)
+  1. **계획하기**(Plan)
+  2. **추적하기**(Track)
+  3. **기록하기**(Record)
+  4. **처리하기**(Process)
+  5. **시각화하기**(Visualize)
 
 ## 외부 방해와 내부 방해
 ### 내부 방해를 해결하는 방법
